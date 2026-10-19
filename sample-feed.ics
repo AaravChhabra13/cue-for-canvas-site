@@ -1,0 +1,1654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Canvas Companion//Sample Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canvas Companion Sample Calendar
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1001
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Lab Report 1 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1002
+DTSTART:20261022T160000Z
+DTEND:20261022T160000Z
+SUMMARY:Homework 1 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1003
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Discussion Post 1 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1004
+DTSTART:20261019T053000Z
+DTEND:20261019T053000Z
+SUMMARY:Programming Assignment 1 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5001
+DTSTART:20261021T180000Z
+DTEND:20261021T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1005
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Reading Quiz 2 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1006
+DTSTART:20261029T160000Z
+DTEND:20261029T160000Z
+SUMMARY:Quiz 2 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1007
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Essay Draft 2 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1008
+DTSTART:20261026T053000Z
+DTEND:20261026T053000Z
+SUMMARY:Section Exercise 2 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5002
+DTSTART:20261028T180000Z
+DTEND:20261028T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1009
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Problem Set 3 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1010
+DTSTART:20261105T160000Z
+DTEND:20261105T160000Z
+SUMMARY:Worksheet 3 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1011
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Peer Review 3 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1012
+DTSTART:20261102T053000Z
+DTEND:20261102T053000Z
+SUMMARY:Checkpoint 3 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5003
+DTSTART:20261104T180000Z
+DTEND:20261104T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1013
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Lab Report 4 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1014
+DTSTART:20261112T160000Z
+DTEND:20261112T160000Z
+SUMMARY:Homework 4 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1015
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Discussion Post 4 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1016
+DTSTART:20261109T053000Z
+DTEND:20261109T053000Z
+SUMMARY:Programming Assignment 4 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5004
+DTSTART:20261111T180000Z
+DTEND:20261111T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1017
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Reading Quiz 5 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1018
+DTSTART:20261119T160000Z
+DTEND:20261119T160000Z
+SUMMARY:Quiz 5 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1019
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Essay Draft 5 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1020
+DTSTART:20261116T053000Z
+DTEND:20261116T053000Z
+SUMMARY:Section Exercise 5 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5005
+DTSTART:20261118T180000Z
+DTEND:20261118T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1021
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Problem Set 6 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1022
+DTSTART:20261126T160000Z
+DTEND:20261126T160000Z
+SUMMARY:Worksheet 6 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1023
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Peer Review 6 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1024
+DTSTART:20261123T053000Z
+DTEND:20261123T053000Z
+SUMMARY:Checkpoint 6 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5006
+DTSTART:20261125T180000Z
+DTEND:20261125T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1025
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Lab Report 7 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1026
+DTSTART:20261203T160000Z
+DTEND:20261203T160000Z
+SUMMARY:Homework 7 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1027
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Discussion Post 7 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1028
+DTSTART:20261130T053000Z
+DTEND:20261130T053000Z
+SUMMARY:Programming Assignment 7 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5007
+DTSTART:20261202T180000Z
+DTEND:20261202T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1029
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Reading Quiz 8 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1030
+DTSTART:20261210T160000Z
+DTEND:20261210T160000Z
+SUMMARY:Quiz 8 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1031
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Essay Draft 8 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1032
+DTSTART:20261207T053000Z
+DTEND:20261207T053000Z
+SUMMARY:Section Exercise 8 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5008
+DTSTART:20261209T180000Z
+DTEND:20261209T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1033
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Problem Set 9 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1034
+DTSTART:20261217T160000Z
+DTEND:20261217T160000Z
+SUMMARY:Worksheet 9 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1035
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Peer Review 9 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1036
+DTSTART:20261214T053000Z
+DTEND:20261214T053000Z
+SUMMARY:Checkpoint 9 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5009
+DTSTART:20261216T180000Z
+DTEND:20261216T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1037
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Lab Report 10 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1038
+DTSTART:20261224T160000Z
+DTEND:20261224T160000Z
+SUMMARY:Homework 10 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1039
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Discussion Post 10 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1040
+DTSTART:20261221T053000Z
+DTEND:20261221T053000Z
+SUMMARY:Programming Assignment 10 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5010
+DTSTART:20261223T180000Z
+DTEND:20261223T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1041
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Reading Quiz 11 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1042
+DTSTART:20261231T160000Z
+DTEND:20261231T160000Z
+SUMMARY:Quiz 11 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1043
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Essay Draft 11 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1044
+DTSTART:20261228T053000Z
+DTEND:20261228T053000Z
+SUMMARY:Section Exercise 11 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5011
+DTSTART:20261230T180000Z
+DTEND:20261230T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1045
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Problem Set 12 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1046
+DTSTART:20270107T160000Z
+DTEND:20270107T160000Z
+SUMMARY:Worksheet 12 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1047
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Peer Review 12 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1048
+DTSTART:20270104T053000Z
+DTEND:20270104T053000Z
+SUMMARY:Checkpoint 12 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5012
+DTSTART:20270106T180000Z
+DTEND:20270106T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1049
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Lab Report 13 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1050
+DTSTART:20270114T160000Z
+DTEND:20270114T160000Z
+SUMMARY:Homework 13 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1051
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Discussion Post 13 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1052
+DTSTART:20270111T053000Z
+DTEND:20270111T053000Z
+SUMMARY:Programming Assignment 13 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5013
+DTSTART:20270113T180000Z
+DTEND:20270113T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1053
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Reading Quiz 14 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1054
+DTSTART:20270121T160000Z
+DTEND:20270121T160000Z
+SUMMARY:Quiz 14 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1055
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Essay Draft 14 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1056
+DTSTART:20270118T053000Z
+DTEND:20270118T053000Z
+SUMMARY:Section Exercise 14 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5014
+DTSTART:20270120T180000Z
+DTEND:20270120T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1057
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Problem Set 15 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1058
+DTSTART:20270128T160000Z
+DTEND:20270128T160000Z
+SUMMARY:Worksheet 15 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1059
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Peer Review 15 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1060
+DTSTART:20270125T053000Z
+DTEND:20270125T053000Z
+SUMMARY:Checkpoint 15 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5015
+DTSTART:20270127T180000Z
+DTEND:20270127T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1061
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Lab Report 16 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1062
+DTSTART:20270204T160000Z
+DTEND:20270204T160000Z
+SUMMARY:Homework 16 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1063
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Discussion Post 16 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1064
+DTSTART:20270201T053000Z
+DTEND:20270201T053000Z
+SUMMARY:Programming Assignment 16 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5016
+DTSTART:20270203T180000Z
+DTEND:20270203T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1065
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Reading Quiz 17 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1066
+DTSTART:20270211T160000Z
+DTEND:20270211T160000Z
+SUMMARY:Quiz 17 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1067
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Essay Draft 17 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1068
+DTSTART:20270208T053000Z
+DTEND:20270208T053000Z
+SUMMARY:Section Exercise 17 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5017
+DTSTART:20270210T180000Z
+DTEND:20270210T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1069
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Problem Set 18 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1070
+DTSTART:20270218T160000Z
+DTEND:20270218T160000Z
+SUMMARY:Worksheet 18 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1071
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Peer Review 18 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1072
+DTSTART:20270215T053000Z
+DTEND:20270215T053000Z
+SUMMARY:Checkpoint 18 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5018
+DTSTART:20270217T180000Z
+DTEND:20270217T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1073
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Lab Report 19 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1074
+DTSTART:20270225T160000Z
+DTEND:20270225T160000Z
+SUMMARY:Homework 19 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1075
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Discussion Post 19 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1076
+DTSTART:20270222T053000Z
+DTEND:20270222T053000Z
+SUMMARY:Programming Assignment 19 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5019
+DTSTART:20270224T180000Z
+DTEND:20270224T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1077
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Reading Quiz 20 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1078
+DTSTART:20270304T160000Z
+DTEND:20270304T160000Z
+SUMMARY:Quiz 20 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1079
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Essay Draft 20 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1080
+DTSTART:20270301T053000Z
+DTEND:20270301T053000Z
+SUMMARY:Section Exercise 20 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5020
+DTSTART:20270303T180000Z
+DTEND:20270303T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1081
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Problem Set 21 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1082
+DTSTART:20270311T160000Z
+DTEND:20270311T160000Z
+SUMMARY:Worksheet 21 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1083
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Peer Review 21 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1084
+DTSTART:20270308T053000Z
+DTEND:20270308T053000Z
+SUMMARY:Checkpoint 21 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5021
+DTSTART:20270310T180000Z
+DTEND:20270310T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1085
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Lab Report 22 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1086
+DTSTART:20270318T160000Z
+DTEND:20270318T160000Z
+SUMMARY:Homework 22 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1087
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Discussion Post 22 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1088
+DTSTART:20270315T053000Z
+DTEND:20270315T053000Z
+SUMMARY:Programming Assignment 22 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5022
+DTSTART:20270317T180000Z
+DTEND:20270317T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1089
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Reading Quiz 23 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1090
+DTSTART:20270325T160000Z
+DTEND:20270325T160000Z
+SUMMARY:Quiz 23 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1091
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Essay Draft 23 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1092
+DTSTART:20270322T053000Z
+DTEND:20270322T053000Z
+SUMMARY:Section Exercise 23 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5023
+DTSTART:20270324T180000Z
+DTEND:20270324T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1093
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Problem Set 24 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1094
+DTSTART:20270401T160000Z
+DTEND:20270401T160000Z
+SUMMARY:Worksheet 24 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1095
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Peer Review 24 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1096
+DTSTART:20270329T053000Z
+DTEND:20270329T053000Z
+SUMMARY:Checkpoint 24 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5024
+DTSTART:20270331T180000Z
+DTEND:20270331T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1097
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Lab Report 25 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1098
+DTSTART:20270408T160000Z
+DTEND:20270408T160000Z
+SUMMARY:Homework 25 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1099
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Discussion Post 25 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1100
+DTSTART:20270405T053000Z
+DTEND:20270405T053000Z
+SUMMARY:Programming Assignment 25 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5025
+DTSTART:20270407T180000Z
+DTEND:20270407T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1101
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Reading Quiz 26 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1102
+DTSTART:20270415T160000Z
+DTEND:20270415T160000Z
+SUMMARY:Quiz 26 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1103
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Essay Draft 26 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1104
+DTSTART:20270412T053000Z
+DTEND:20270412T053000Z
+SUMMARY:Section Exercise 26 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5026
+DTSTART:20270414T180000Z
+DTEND:20270414T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1105
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Problem Set 27 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1106
+DTSTART:20270422T160000Z
+DTEND:20270422T160000Z
+SUMMARY:Worksheet 27 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1107
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Peer Review 27 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1108
+DTSTART:20270419T053000Z
+DTEND:20270419T053000Z
+SUMMARY:Checkpoint 27 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5027
+DTSTART:20270421T180000Z
+DTEND:20270421T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1109
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Lab Report 28 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1110
+DTSTART:20270429T160000Z
+DTEND:20270429T160000Z
+SUMMARY:Homework 28 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1111
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Discussion Post 28 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1112
+DTSTART:20270426T053000Z
+DTEND:20270426T053000Z
+SUMMARY:Programming Assignment 28 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5028
+DTSTART:20270428T180000Z
+DTEND:20270428T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1113
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Reading Quiz 29 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1114
+DTSTART:20270506T160000Z
+DTEND:20270506T160000Z
+SUMMARY:Quiz 29 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1115
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Essay Draft 29 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1116
+DTSTART:20270503T053000Z
+DTEND:20270503T053000Z
+SUMMARY:Section Exercise 29 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5029
+DTSTART:20270505T180000Z
+DTEND:20270505T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1117
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Problem Set 30 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1118
+DTSTART:20270513T160000Z
+DTEND:20270513T160000Z
+SUMMARY:Worksheet 30 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1119
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Peer Review 30 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1120
+DTSTART:20270510T053000Z
+DTEND:20270510T053000Z
+SUMMARY:Checkpoint 30 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5030
+DTSTART:20270512T180000Z
+DTEND:20270512T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1121
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Lab Report 31 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1122
+DTSTART:20270520T160000Z
+DTEND:20270520T160000Z
+SUMMARY:Homework 31 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1123
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Discussion Post 31 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1124
+DTSTART:20270517T053000Z
+DTEND:20270517T053000Z
+SUMMARY:Programming Assignment 31 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5031
+DTSTART:20270519T180000Z
+DTEND:20270519T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1125
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Reading Quiz 32 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1126
+DTSTART:20270527T160000Z
+DTEND:20270527T160000Z
+SUMMARY:Quiz 32 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1127
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Essay Draft 32 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1128
+DTSTART:20270524T053000Z
+DTEND:20270524T053000Z
+SUMMARY:Section Exercise 32 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5032
+DTSTART:20270526T180000Z
+DTEND:20270526T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1129
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Problem Set 33 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1130
+DTSTART:20270603T160000Z
+DTEND:20270603T160000Z
+SUMMARY:Worksheet 33 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1131
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Peer Review 33 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1132
+DTSTART:20270531T053000Z
+DTEND:20270531T053000Z
+SUMMARY:Checkpoint 33 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5033
+DTSTART:20270602T180000Z
+DTEND:20270602T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1133
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Lab Report 34 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1134
+DTSTART:20270610T160000Z
+DTEND:20270610T160000Z
+SUMMARY:Homework 34 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1135
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Discussion Post 34 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1136
+DTSTART:20270607T053000Z
+DTEND:20270607T053000Z
+SUMMARY:Programming Assignment 34 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5034
+DTSTART:20270609T180000Z
+DTEND:20270609T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1137
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Reading Quiz 35 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1138
+DTSTART:20270617T160000Z
+DTEND:20270617T160000Z
+SUMMARY:Quiz 35 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1139
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Essay Draft 35 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1140
+DTSTART:20270614T053000Z
+DTEND:20270614T053000Z
+SUMMARY:Section Exercise 35 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5035
+DTSTART:20270616T180000Z
+DTEND:20270616T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1141
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Problem Set 36 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1142
+DTSTART:20270624T160000Z
+DTEND:20270624T160000Z
+SUMMARY:Worksheet 36 [MATH 221]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1143
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Peer Review 36 [ENGL 131]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1144
+DTSTART:20270621T053000Z
+DTEND:20270621T053000Z
+SUMMARY:Checkpoint 36 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5036
+DTSTART:20270623T180000Z
+DTEND:20270623T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1145
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Lab Report 37 [BIO 101]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-assignment-1146
+DTSTART:20270628T053000Z
+DTEND:20270628T053000Z
+SUMMARY:Programming Assignment 37 [CSE 142]
+DESCRIPTION:Sample assignment for testing Canvas Companion.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T000000Z
+UID:event-calendar-event-5037
+DTSTART:20270630T180000Z
+DTEND:20270630T190000Z
+SUMMARY:Office Hours [MATH 221]
+DESCRIPTION:Sample event.
+URL:https://aaravchhabra13.github.io/canvas-companion-site/
+END:VEVENT
+END:VCALENDAR
