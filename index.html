@@ -1,34 +1,228 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Cue for Canvas Support</title><style>
-:root{--bg:#fff;--fg:#1d1d1f;--muted:#6e6e73;--link:#2a6fdb;--line:#e5e5ea}
-@media (prefers-color-scheme:dark){:root{--bg:#0f1420;--fg:#f2f2f5;--muted:#a1a1aa;--link:#7aa7ff;--line:#262c3a}}
-body{background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;margin:0}
-main{max-width:680px;margin:0 auto;padding:40px 16px 64px}
-h1{font-size:28px;margin:0 0 4px}h2{font-size:18px;margin:32px 0 8px}
-p,li{color:var(--fg)}.muted{color:var(--muted)}a{color:var(--link)}
-ul{padding-left:20px}nav{margin-bottom:24px;font-size:14px}nav a{margin-right:16px}
-footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);font-size:14px;color:var(--muted)}
-</style></head>
-<body><main><nav><a href="./">Support</a><a href="privacy.html">Privacy Policy</a></nav>
-<h1>Cue for Canvas</h1>
-<p class="muted">Your Canvas deadlines in the Mac menu bar.</p>
-<h2>Get help</h2>
-<p>Email <a href="mailto:aaravpchhabra@gmail.com?subject=Canvas%20Companion%20support">aaravpchhabra@gmail.com</a>. Include your macOS version and what you were doing. You can also use Settings &rarr; General &rarr; Send feedback in the app, which fills those in for you.</p>
-<h2>Setup</h2>
-<ul>
-<li>In Canvas, open Calendar, then click <b>Calendar Feed</b> at the bottom right and copy the link.</li>
-<li>Paste it into Cue for Canvas during setup. That's it. No login, no password.</li>
-<li>Optional: add a Canvas API token (Account &rarr; Settings &rarr; New Access Token) to also see submission status.</li>
-</ul>
-<h2>Common questions</h2>
-<p><b>Nothing shows up.</b> Check that the link ends in <code>.ics</code> and that your courses have assignments with due dates in the next few weeks. You can change how far ahead to look in Settings.</p>
-<p><b>Reminders don't arrive.</b> Open System Settings &rarr; Notifications &rarr; Cue for Canvas and allow notifications.</p>
-<p><b>How do I remove my data?</b> Settings &rarr; General &rarr; Reset erases everything the app stored. Deleting the app also removes it.</p>
-<h2>Try it without a Canvas account</h2>
-<p>Paste this sample feed link during setup to see the app with made-up courses:</p>
-<p><code>https://aaravchhabra13.github.io/cue-for-canvas-site/sample-feed.ics</code></p>
-<h2>Privacy</h2>
-<p>No accounts and no servers. Read the full <a href="privacy.html">privacy policy</a>.</p>
-<footer>Cue for Canvas is an independent app and is not affiliated with or endorsed by Instructure.</footer>
-</main></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cue for Canvas: Canvas deadlines in your Mac menu bar</title>
+<meta name="description" content="Cue for Canvas is the unofficial menu bar companion for Canvas LMS. Your Canvas deadlines, one click away, with reminders before things are due. No account needed.">
+<link rel="canonical" href="https://cueforcanvas.com/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cueforcanvas.com/">
+<meta property="og:title" content="Cue for Canvas">
+<meta property="og:description" content="Your Canvas deadlines, one click away. The unofficial menu bar companion for Canvas LMS.">
+<meta property="og:image" content="https://cueforcanvas.com/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#070b14">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="/assets/favicon-64.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/icon-256.webp" alt="" width="28" height="28">Cue for Canvas</a>
+    <nav class="nav-links">
+      <a href="#features">Features</a>
+      <a href="#how">How it works</a>
+      <a href="#faq">FAQ</a>
+      <a class="keep" href="/support/">Support</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <span class="eyebrow"><span class="dot"></span>For Mac · macOS 14 or later</span>
+        <img class="hero-icon" src="/assets/icon-256.webp" alt="Cue for Canvas app icon" width="76" height="76">
+        <h1>Cue for <span class="grad-text">Canvas</span></h1>
+        <p class="tagline">The Unofficial Menu Bar Companion for Canvas LMS</p>
+        <p class="lede">Your Canvas deadlines, one click away. Everything due, sorted by urgency, with reminders before it's too late.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="mailto:aaravpchhabra@gmail.com?subject=Cue%20for%20Canvas%20beta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 6 12 13 2 6"/><rect x="2" y="4" width="20" height="16" rx="3"/></svg>
+            Join the beta
+          </a>
+          <a class="btn btn-ghost" href="#how">See how it works</a>
+        </div>
+        <p class="cta-note">Coming soon to the Mac App Store.</p>
+      </div>
+
+      <div class="shot-stack">
+        <div class="menubar" aria-hidden="true">
+          <span>Wi‑Fi</span>
+          <span class="mb-icon"><img src="/assets/favicon-32.png" alt=""><span class="badge">2</span></span>
+          <span>Sun 6:42 PM</span>
+        </div>
+        <img class="panel-shot" src="/assets/panel-assignments.webp" width="682" height="1048"
+             alt="The Cue for Canvas panel listing assignments due tomorrow and coming up, grouped by date">
+      </div>
+    </div>
+  </section>
+
+  <div class="strip">
+    <div class="wrap">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Works with any school on Canvas</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>No login or account</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Your data stays on your Mac</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Set up in under a minute</span>
+    </div>
+  </div>
+
+  <section id="features">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="kicker">Features</p>
+        <h2>Stop opening Canvas to check what's due.</h2>
+        <p>Cue lives in your menu bar and keeps every course in one list. Click once and you know what's next.</p>
+      </div>
+      <div class="features">
+        <div class="feature">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3 6 1 1 2-2M3 12l1 1 2-2M3 18l1 1 2-2"/></svg></div>
+          <h3>Everything due, sorted</h3>
+          <p>Assignments, quizzes, and events from all your courses, grouped by today, tomorrow, and later.</p>
+        </div>
+        <div class="feature">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg></div>
+          <h3>Reminders that show up</h3>
+          <p>24 hours, 2 hours, and 30 minutes before. macOS delivers them even if the app is closed.</p>
+        </div>
+        <div class="feature">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></div>
+          <h3>A morning digest</h3>
+          <p>One notification at the time you pick, with what's due today and what's coming.</p>
+        </div>
+        <div class="feature">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></div>
+          <h3>Calendar at a glance</h3>
+          <p>See which days are heavy before they sneak up on you. Busy days light up.</p>
+        </div>
+        <div class="feature">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div>
+          <h3>Fast with a keyboard</h3>
+          <p>⌘K to search everything. Check items off, snooze them, or jump straight to the assignment in Canvas.</p>
+        </div>
+        <div class="feature">
+          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+          <h3>Private by design</h3>
+          <p>No account and no servers. Your feed link sits in your Mac's Keychain.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="gallery">
+        <figure>
+          <img src="/assets/panel-assignments.webp" width="682" height="1048" alt="Assignments tab" loading="lazy">
+          <figcaption><b>Assignments</b><span>What's due, in order</span></figcaption>
+        </figure>
+        <figure>
+          <img src="/assets/panel-courses.webp" width="682" height="1051" alt="Courses tab showing four courses with their own colors" loading="lazy">
+          <figcaption><b>Courses</b><span>Each class at a glance</span></figcaption>
+        </figure>
+        <figure>
+          <img src="/assets/panel-calendar.webp" width="962" height="1289" alt="Calendar tab showing a month with busy days highlighted" loading="lazy">
+          <figcaption><b>Calendar</b><span>Spot the busy weeks</span></figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section id="how">
+    <div class="wrap how">
+      <div>
+        <div class="section-head" style="margin-bottom:32px">
+          <p class="kicker">How it works</p>
+          <h2>One link. That's the whole setup.</h2>
+          <p>Cue reads the calendar feed Canvas already gives every student. No password, no school approval.</p>
+        </div>
+        <ol class="steps">
+          <li><h3>Copy your Calendar Feed link</h3><p>In Canvas, open Calendar and click Calendar Feed at the bottom right.</p></li>
+          <li><h3>Paste it into Cue</h3><p>Pick your reminder times. Turn on the daily digest if you want it.</p></li>
+          <li><h3>Click the menu bar icon</h3><p>Everything due shows up, and it stays in sync on its own.</p></li>
+        </ol>
+      </div>
+      <img src="/assets/setup-feed.webp" width="1042" height="1202" alt="Setup screen asking for the Canvas Calendar Feed link, with four short steps" loading="lazy">
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="privacy-band">
+        <div>
+          <p class="kicker">Privacy</p>
+          <h2 style="margin-bottom:10px">Your schoolwork stays yours.</h2>
+          <p style="color:var(--muted);margin:0 0 18px">Cue talks to Canvas directly from your Mac. Nothing passes through us.</p>
+          <a href="/privacy/">Read the privacy policy →</a>
+        </div>
+        <ul>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span><b>No account.</b> Nothing to sign up for, nothing to log into.</span></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span><b>Stored in your Keychain.</b> Your feed link never leaves your Mac except to reach Canvas.</span></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span><b>Anonymous usage only.</b> Never titles, courses, or links. Turn it off anytime.</span></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span><b>No ads, no tracking.</b> Ever.</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq">
+    <div class="wrap">
+      <div class="section-head center">
+        <p class="kicker">FAQ</p>
+        <h2>Questions</h2>
+      </div>
+      <div class="faq">
+        <details>
+          <summary>Is this made by Instructure?</summary>
+          <p>No. Cue for Canvas is an independent app built by a student. It isn't affiliated with or endorsed by Instructure, the company behind Canvas.</p>
+        </details>
+        <details>
+          <summary>Does it work with my school?</summary>
+          <p>If your school uses Canvas, yes. Every Canvas account has a Calendar Feed link, and that's all Cue needs.</p>
+        </details>
+        <details>
+          <summary>Do I need to give it my Canvas password?</summary>
+          <p>No. Cue never asks for your password. It only reads your calendar feed.</p>
+        </details>
+        <details>
+          <summary>Can it show whether I've submitted something?</summary>
+          <p>Yes, if your school lets students create a Canvas API token. It's optional. Many schools don't allow it, and Cue works fine without it.</p>
+        </details>
+        <details>
+          <summary>What do I need to run it?</summary>
+          <p>A Mac running macOS 14 Sonoma or later.</p>
+        </details>
+        <details>
+          <summary>When can I get it?</summary>
+          <p>Cue is in beta now and coming to the Mac App Store soon. <a href="mailto:aaravpchhabra@gmail.com?subject=Cue%20for%20Canvas%20beta">Email me</a> to join the beta.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="final">
+    <div class="wrap">
+      <img src="/assets/icon-256.webp" alt="" width="84" height="84">
+      <h2>Never miss a Canvas deadline again.</h2>
+      <p style="color:var(--muted);margin:0 0 28px">Your Canvas deadlines, one click away.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="mailto:aaravpchhabra@gmail.com?subject=Cue%20for%20Canvas%20beta">Join the beta</a>
+        <a class="btn btn-ghost" href="/support/">Get help</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Cue for Canvas. Not affiliated with or endorsed by Instructure. Canvas is a trademark of Instructure, Inc.</span>
+    <nav><a href="/privacy/">Privacy</a><a href="/support/">Support</a><a href="mailto:aaravpchhabra@gmail.com">Contact</a></nav>
+  </div>
+</footer>
+</body>
+</html>
